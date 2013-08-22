@@ -13,6 +13,6 @@ deploy:
   password:
     secure: ZHMyLvQA/9pzCwy7G91nxJFJxmumytRERWG+8R/ZsB4BOWXsGJvygfFmkyadgzMp5bE5ffIk+N7UAYne4bdd00q/EddMfE8FxmZM5/c3MWjN+ObIqPKLfdP/3t4hxndUjotWaAs5tMZ/wI59XIj33cVQTc96Wimbo5t8VRdxYIg=
   app: handfeeds
-  domain: 'handfeeds-luizirber.rhcloud.com'
+  domain: 'luizirber'
   on:
     repo: luizirber/handfeeds
