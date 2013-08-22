@@ -1,0 +1,4 @@
+source ~/python/virtenv/bin/activate
+git clone https://github.com/luizirber/Hand.git ~/git/Hand.git
+pip install -r ~/git/Hand.git/examples-requirements.txt
+pip install -U https://github.com/luizirber/Hand/archive/master.zip
